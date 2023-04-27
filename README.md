@@ -63,37 +63,37 @@ For this project, I build an application for Reddit using everything I've learne
 
 #### Desktop
 <p align="center">
-    <img src="./wireframes/Desktop-Web-App.png">
+    <img src="./src/wireframes/Desktop-Web-App.png">
 </p>
 
 #### Tablet
 - Tablet Home Page
 <p align="center">
-    <img src="./wireframes/Tablet-Home.png" height="500px" width="400px">
+    <img src="./src/wireframes/Tablet-Home.png" height="500px" width="400px">
 </p>
 
 - Tablet Focus
 <p align="center">
-    <img src="./wireframes/Tablet-Focus.png" height="500px" width="400px">
+    <img src="./src/wireframes/Tablet-Focus.png" height="500px" width="400px">
 </p>
 
 - Tablet Categories List
 <p align="center">
-    <img src="./wireframes/Tablet-Categories-List.png" height="500px" width="400px">
+    <img src="./src/wireframes/Tablet-Categories-List.png" height="500px" width="400px">
 </p>
 
 #### Phone
 - Phone Home
 <p align="center">
-    <img src="./wireframes/Phone-Home.png" height="500px" width="300px">
+    <img src="./src/wireframes/Phone-Home.png" height="500px" width="300px">
 </p>
 
 - Phone Search
 <p align="center">
-    <img src="./wireframes/Phone-Search.png" height="500px" width="300px">
+    <img src="./src/wireframes/Phone-Search.png" height="500px" width="300px">
 </p>
 
 - Phone Categories List
 <p align="center">
-    <img src="./wireframes/Phone-Categories-List.png" height="500px" width="300px">
+    <img src="./src/wireframes/Phone-Categories-List.png" height="500px" width="300px">
 </p>
